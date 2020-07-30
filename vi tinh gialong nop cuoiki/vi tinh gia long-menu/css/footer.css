@@ -1,0 +1,47 @@
+.foot{
+	border-top:solid #900;
+	
+	width:1300px;
+	height:160px;
+	background:url(../hinh%20anh/backgr%20whitle.jpg);
+}
+.leftfoot{
+	float:left;
+	width:400px;
+	padding:5px 0 0 10px;
+}
+.rightfoot{
+	float:left;
+	margin-top:20px;
+	margin-left:100px;
+	height:100px;
+	width:380px;
+	
+	
+	
+}
+.centerfoot{
+	float:left;
+	width:400px;
+	margin-top:20px;
+	
+	
+	
+}
+.tieude{
+	font-size:25px;
+	line-height:30px;
+	color:#C30;
+}
+.rightfoot a{
+	text-decoration:none;
+	padding:0 0 0 7px;
+	color:#F00;
+	font-size:20px;
+	margin-left:20px;
+}
+.rightfoot a:hover{
+	text-decoration:none;
+	color:#339;
+}
+

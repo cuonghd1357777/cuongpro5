@@ -1,0 +1,423 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+   <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+         
+            <title>Untitled Document</title>
+        
+            <link rel="stylesheet" type="text/css" href="../css/top.css"/>
+            <link rel="stylesheet" type="text/css" href="../css/hea.css"/>
+            <link rel="stylesheet" type="text/css" href="../css/menutab.css"/>
+            <link rel="stylesheet" type="text/css" href="../css/na.css"/>
+           <link rel="stylesheet" type="text/css" href="../css/lefttcon.css"/>
+           <link rel="stylesheet" type="text/css" href="../css/center.css"/>
+           <link rel="stylesheet" type="text/css" href="../css/rightcon.css"/>
+           <link rel="stylesheet" type="text/css" href="../css/footer.css"/>
+           <link rel="stylesheet" type="text/css" href="../css/content.css"/>
+
+ 
+
+<body>
+<div class="main">
+       <div class="top">
+           <div class="ngonngu">
+               <div>Ngôn ngữ :  </div>
+                  <a href="#"><img src="../hinh anh/tải xuống.jpg" alt="EN" /></a>
+                  <a href="#"><img src="../hinh anh/EN.png" alt="EN" /></a>
+           
+            </div>
+               <div class="timkiem">
+                  <div class="timkiem1"><a href="#">Tìm kiếm</a></div> 
+                   <input type="text" class="nhap" name="timkiem"/>
+                    <input type="image" src="../hinh anh/search.png" class="timkiem2" />
+              </div>
+              
+              
+        </div>
+     
+        
+        
+        <div class="hea">
+            <div id="logo"><img src="../hinh anh/logo.png" alt="hinhanh"/></div>
+            <div class="slider">
+                 <div class="top_"></div>
+                    <div class="con_">
+                        <img src="../hinh anh/latop asus.jpeg" alt="hinhanh1" class="hinhanh2"/>
+                        <div class="details">
+                             <div class="title">Laptop Asus A411UA-EB871T </div>
+                             <div class="text_">
+                            CPU Intel® Core™ i3-7020U Processor (3M Cache, 2.30 GHz) RAM 
+                            4GB DDR4 HDD 1TB 5400rpm VGA Intel® UHD Graphics 620 Display 
+                            14.0" FHD PIN 3Cell 42Whr OS Windows 10SL
+                             
+                             </div>
+                             <a href="#">Mô tả chi tiết</a>
+                        
+                        </div>
+                    
+                    </div>
+                   
+                    <div class="hh">
+                       <span class="hhh">1</span>
+                       <a href="#">2</a>
+                       <a href="#">3</a>
+                       <a href="#">4</a>
+                       <a href="#">5</a>
+                       
+                    </div>
+                    
+                   
+            </div>
+             <div class="c1">Vi tính Gia Long chuyên cung cấp linh
+                          kiện thiết bị PC,Laptop rẻ nhất trong tầm giá</div>
+        
+        
+        
+        
+        
+        
+        
+        
+        </div>
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+        <div class="clr"></div>
+        <div class="con">
+             <div class="menu tab">
+               <div class="trai"></div>
+               <ul class="menu">
+                  <li><a href="#" >Trang chủ</a></li>
+                  <li><a href="#">Sản Phẩm</a></li>
+                  <li><a href="#">Nổi bật</a></li>
+                  <li><a href="#">Đăng nhập</a></li>
+                  <li><a href="#">Tài khoản cá nhân</a></li>
+                  <li><a href="#">Vận chuyển</a></li>
+                  <li><a href="#">Liên hệ</a></li>
+                  <li class="tiente">Tiền tệ
+                       <select>
+                           <option>US Dollar</option>
+                           <option>VN Đồng</option>
+                        </select>
+                         
+                  </li>
+                </ul>
+                <div class="phai"></div>
+              </div>
+             
+             <div class="na">
+                 Đường dẫn: <span class="c2">Trang chủ</span>
+             
+             
+             </div>
+             
+             <div class="leftcon">
+                  <div class="box1">Danh mục sản phẩm</div>
+                  <ul class="leftmenu">
+                      <li class="no"><a href="#">Bộ xử lý(CPU)</a></li>
+                      <li class="y"><a href="#">Bo mạch chủ</a></li>
+                      <li class="no"><a href="#">Ram</a></li>
+                      <li class="y"><a href="#">Nguồn máy tính</a></li>
+                      <li class="no"><a href="#">Card đồ họa</a></li>
+                      <li class="y"><a href="#">Máy đồng bộ</a></li>
+                      <li class="no"><a href="#">Case máy tính</a></li>
+                      <li class="y"><a href="#">Tản nhiệt CPU</a></li>
+                       <li class="no"><a href="#">Màn hình</a></li>
+                      <li class="y"><a href="#">Chuột</a></li>
+                       <li class="no"><a href="#">Bàn phím</a></li>
+                      <li class="y"><a href="#">Tai nghe</a></li>
+                   </ul>  
+             <div class="box1">Sản phẩm HOT</div>
+               <div class="kkk">
+                <div class="d"><a href="#">Card đồ họa</a></div>
+                <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                <div class="ddd">
+                 <span class="f">35.000.000</span>
+                 <span class="ff">20.000.000</span>
+                  
+               </div>  
+              <div class="box1">Bản tin</div>
+              <div class="kkk"> 
+                 <input type="text" name="Bản tin" class="nhapbantin" value="Email"/>
+                 <a href="#" class="thamgia">Tham gia</a>
+                 </div>
+                 
+                 
+                 <!--quang cao-->
+                 <div class="anhbia">
+                     <a href="#"><img src="../hinh anh/banerr.jpg" alt="Ảnh Bìa" /></a>
+                 
+                 
+                 </div>
+             
+                      
+                  
+             
+             </div>
+           
+              
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           </div>
+             <!-- TemplateBeginEditable name="content" -->
+             <div class="centercon">
+               <div class="sanphammoi">SẢN  PHẨM  MỚI</div>
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+               <!--sanpham-->
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+               <!--sanpham-->
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+               <!--sanpham-->
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+               <!--sanpham-->
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+               <!--sanpham-->
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+               <!--sanpham-->
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+               <!--sanpham-->
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+               <!--sanpham-->
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+               <!--sanpham-->
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+               <!--sanpham-->
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+               <!--sanpham-->
+               <div class="pro">
+                 <div class="toppro"></div>
+                 <div class="centerpro">
+                   <div class="d"><a href="#">Card đồ họa</a></div>
+                   <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                   <div class="ddd"> <span class="f">35.000.000</span> <span class="ff">20.000.000</span> </div>
+                 </div>
+                 <div class="botpro"></div>
+               </div>
+             </div>
+             <!-- TemplateEndEditable -->
+           <div class="rightcon">
+             <div class="vanchuyen">Vỏ hàng</div>
+                   <div class="chitiet">
+                   3 đơn hàng <br />
+                   <span class="khunghang"></span>
+                   Tổng công:<span class="Gia">10.000.000 Đồng</span>
+                   
+                   
+                   </div>
+                   <div class="bieutuongg">
+                     <a href="#"><img src="../hinh anh/latop asus.jpeg" /></a>
+                   
+                   </div>
+               
+               
+                 <div class="box1">Sản phẩm mới</div>
+               <div class="kkk">
+                <div class="d"><a href="#">Card đồ họa</a></div>
+                <div class="dd"><a href="#"><img src="../hinh anh/latop asus.jpeg" /></a></div>
+                <div class="ddd">
+                 <span class="f">35.000.000</span>
+                 <span class="ff">20.000.000</span>
+                  
+               </div>  
+                <div class="box1">Thương hiệu</div>
+                  <ul class="leftmenu">
+                      <li class="no"><a href="#">Nvidia</a></li>
+                      <li class="y"><a href="#">AMD</a></li>
+                      <li class="no"><a href="#">SAM SUNG</a></li>
+                      <li class="y"><a href="#">KINGSTON</a></li>
+                      <li class="no"><a href="#">RAZER</a></li>
+                      <li class="y"><a href="#">BENQ</a></li>
+                      <li class="no"><a href="#">DELL</a></li>
+                      <li class="y"><a href="#">SOUNDMAX</a></li>
+                       <li class="no"><a href="#">LOGITECH</a></li>
+                      <li class="y"><a href="#">SONY</a></li>
+                   </ul>  
+           
+               
+             
+             
+             
+             
+             
+             </div>
+              
+                    
+                
+                  
+                  
+                  
+                  
+               
+               
+               
+               
+               
+               
+               
+               
+               
+         
+        
+     
+     
+     
+     
+  </div>
+  </div>
+   <div class="foot">
+      <div class="leftfoot">
+         <img src="../hinh anh/logo.png" alt="hinh anh foot"/>
+        </div>
+         
+       <div class="centerfoot">
+          <div class="tieude">Về chúng tôi</div>
+          <section>
+            <span style="font-size:14px;">
+            ♦&nbsp; &nbsp;430 Phú Lợi, Khu Phố 8, P. Phú Hòa, Tp. Thủ Dầu Một, Bình Dương
+            <br>
+            ♦&nbsp; &nbsp;Hotline: 0989.470.670
+            <br>
+            ♦&nbsp; &nbsp;Email: tttmdvgialong@gmail.com
+            <br>
+            ♦&nbsp; &nbsp;Website: www.vitinhgialong.vn
+            </span>
+            </section>
+            </div>
+           <div class="rightfoot">
+           <a href="#">Trang chủ</a>
+           <a href="#">Liên hệ chúng tôi</a>
+           </div>
+           </div>
+           </div>
+            
+   
+   
+   
+   
+  
+   </body>
+</html>
